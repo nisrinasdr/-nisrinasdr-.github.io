@@ -2,8 +2,8 @@
 Mahasiswa Ilmu Komputer IPB
 
 
-_Cicantayan, Sukabumi
-+62 858-7585-4971
+_Cicantayan, Sukabumi\
++62 858-7585-4971\
 sudrajat.nisrina@gmail.com_
 
 ## Pendidikan
